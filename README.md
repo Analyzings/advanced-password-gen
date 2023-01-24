@@ -4,7 +4,7 @@
 
 youtube- https://youtube.com/c/Clayzee
 
-github- https://github.com/Embarassing
+github- https://github.com/Analyzings
 
 ------------------------Thank You!---------------------
 
