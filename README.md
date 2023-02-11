@@ -1,29 +1,8 @@
-......................................................
-
-------------------------Support Me---------------------
-
-youtube- https://youtube.com/c/Clayzee
-
-github- https://github.com/Analyzings
-
-------------------------Thank You!---------------------
-
-......................................................
-
-----------------------How To Install-------------------
-
-1- Download python -> https://www.python.org/downloads/
-
-2- Download winrar -> https://www.win-rar.com/start.html?&L=11
-
-3- Put the files in a folder if they arent
-
-4- Open your cmd (command prompt) 
-
-5- Put the location of the .py file. (ex. "C:\Users\You\Desktop\PythonPasswordGen")
-
-6- Type "py password_generator.py" 
-
-7- Enjoy your super safe passwords!
-
---------------------Thank You For Reading-----------------
+### Advanced Python Password Generator.
+<a target="_blank" rel="noopener noreferrer" href="/img/screen.png">
+<img src="/img/screen.png"" style="max-width: 100%;">
+<hr width="100%" />
+<a href="https://www.python.org/downloads/" rel="nofollow">
+download Python here. </a> <br />
+<a href="https://www.buymeacoffee.com/Analyzings" rel="nofollow">
+Support me here <3. </a>
