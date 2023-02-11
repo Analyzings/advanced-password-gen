@@ -24,6 +24,6 @@ github- https://github.com/Analyzings
 
 6- Type "py password_generator.py" 
 
-7- Enjoy your super safe passwords! (Don't forget to store them in a .txt file or where you want!)
+7- Enjoy your super safe passwords!
 
 --------------------Thank You For Reading-----------------
