@@ -3,14 +3,14 @@ import sys
 
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!?$%&"
 
-while 1:
-password_len = int(input("What lenght would you like your pass to be : "))
-password_count = int(input("How many passwords would you like (max is 1 for now): "))
-for x in range(0,password_count):
-password = ""
-for x in range(0,password_len):
-password_char = random.choice(chars)
-password = password + password_char
-with open('logs.txt', 'a') as file:
-file.write("Here's your pass : " + password + "\n")
-print("Here's your pass : ", password)
+password_len = int(input("What length would you like your password to be: "))
+password_count = int(input("How many passwords would you like: "))
+with open("logs.txt", "a") as file:
+    for i in range(password_count):
+        password = ""
+        for j in range(password_len):
+            password_char = random.choice(chars)
+            password = password + password_char
+        file.write("Here's your password: " + password + "\n")
+print(f"{password_count} passwords have been saved to logs.txt.")
+sys.exit()
